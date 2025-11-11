@@ -4,7 +4,7 @@ MOD is building one of the first AI–human working layers: a modular ecosystem 
 
 ## What we are building
 
-- **MOD Core Platform** – A web application where Builders design reusable AI modules, Creators assemble intelligent digital artifacts with live previews, and (soon) Executors deploy or remix those artifacts. Every module and artifact carries authorship, version history, remix permissions, and optional on-chain anchoring to support interoperability.
+- **AI Creation Platform** – A web application where Builders design reusable AI modules, Creators assemble intelligent digital artifacts with live previews, and (soon) Executors deploy or remix those artifacts. Every module and artifact carries authorship, version history, remix permissions, and optional on-chain anchoring to support interoperability.
 - **AI Consulting Program** – A practice-based journey that helps teams and communities map their AI ambitions into concrete outputs, seeding new modules and artifacts for the ecosystem.
 - **Intelligent Digital Artifacts Protocol (IDAP)** – An emerging specification that defines how artifacts, metadata, and permissions travel securely across modules, users, and third-party systems.
 
